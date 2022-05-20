@@ -9,4 +9,11 @@
 - git clone https://github.com/tuhiran6433/laravel-app.git
 - composer update
 - npm install
-- 
+
+# Admin cred
+- email : admin@yopmail.com
+- password: 123456789
+
+# User Credentials
+- email : john@yopmail.com
+- password: 12345678
